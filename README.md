@@ -1,6 +1,14 @@
 ### Hi there 👋
 
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/95842589/189436608-33146d9f-6b85-4334-84ea-e10e8c8a9a3d.gif">
+</p>
+
+
 Junior Biomedical Engineer passionate about Data analysis, Medical Planning, and business development. A capable leader, having led multiple projects to completion, interested in innovation and creative solutions to develop healthcare in Egypt.
+
+
 
 - :book: I’m currently master's student - University of Ottawa
 - :computer: I’m currently learning AI and Data science
@@ -8,8 +16,8 @@ Junior Biomedical Engineer passionate about Data analysis, Medical Planning, and
 - 📫 How to reach me: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ziada-b023b2126/)
+[![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://ahmedaliziada@outlook.com/) 
 
-[![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://ahmedaliziada@outlook.com/) ahmedaliziada@outlook.com
 ------------------------------------------------------------------
 ![name](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![name](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
