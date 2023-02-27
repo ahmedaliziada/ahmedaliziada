@@ -6,7 +6,7 @@
 </p>
 
 
-Junior Biomedical Engineer passionate about Data analysis, Medical Planning, and business development. A capable leader, having led multiple projects to completion, interested in innovation and creative solutions to develop healthcare in Egypt.
+Seeking a challenging role in the field of Artificial Intelligence and Data Science, utilizing my knowledge in machine learning, deep learning, computer vision, and NLP. Committed to developing innovative solutions through hands-on experience with various AI projects. Looking for a dynamic and fast-paced environment where I can continuously learn and contribute to cutting-edge initiatives
 
 
 
