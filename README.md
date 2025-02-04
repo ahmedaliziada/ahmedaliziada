@@ -18,7 +18,7 @@
 - 📫 Let's connect and collaborate!
 <p>
     <a href="https://www.linkedin.com/in/ahmed-ziada-b023b2126/" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100">
     </a>
     <a href="mailto:ahmedaliziada@outlook.com" style="display: inline-block;">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="150">
@@ -27,11 +27,24 @@
 
 
 ------------------------------------------------------------------
-[![name](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
-[![name](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-[![name](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white)](https://www.ibm.com/cloud)
-[![name](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-[![vector-informatik-gmbh-vector-logo](https://github.com/user-attachments/assets/7bbb770a-8d87-4f91-8b25-cac79168a76f)](https://www.vector.com/gb/en/know-how/capl/)
+<p align="left">
+    <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="140">
+    </a>
+    <a href="https://plotly.com/">
+        <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" width="140">
+    </a>
+    <a href="https://www.ibm.com/cloud">
+        <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white" width="140">
+    </a>
+    <a href="https://www.r-project.org/">
+        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" width="140">
+    </a>
+    <a href="https://www.vector.com/gb/en/know-how/capl/">
+        <img src="https://github.com/user-attachments/assets/7bbb770a-8d87-4f91-8b25-cac79168a76f" width="140">
+    </a>
+</p>
+
 
 ------------------------------------------------------------------
 [![Valeo_Logo svg](https://github.com/user-attachments/assets/b748ce67-70d8-4088-8a42-4262adc3d46b)](https://www.valeo.com/en/)
