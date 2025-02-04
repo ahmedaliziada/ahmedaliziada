@@ -17,7 +17,12 @@
 ---------------------------------------------------------------------
 - 📫 Let's connect and collaborate!
   
-<img src="![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" width="300" height="200">
+  <a href="https://www.linkedin.com/in/ahmed-ziada-b023b2126/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150">
+</a>
+<a href="mailto:ahmedaliziada@outlook.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="150">
+</a>
 
 
 ------------------------------------------------------------------
