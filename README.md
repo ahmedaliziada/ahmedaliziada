@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-
 <p align="center">
-  <img width="460" height="400" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">
+  <img width="460" height="400" src="https://github.com/user-attachments/assets/e3c175d2-b43f-423e-9762-1063d27609c0">
 </p>
-
 
 👋 I'm Ahmed Ziada, a Software Engineer at Valeo specializing in validation testing, tooling, and AI-driven process enhancements.
 
